@@ -16,7 +16,7 @@ Egestas congue quisque egestas diam in arcu cursus. Pellentesque dignissim enim 
 
 ## Еще гифка
 
-![](https://c.tenor.com/pu-v_CVlOKwAAAAd/morgenshtern-head.gif)
+![](https://c.tenor.com/pu-v_CVlOKwAAAAM/morgenshtern-head.gif)
 
 ```js
 const lastIndex = getIndex('last')
